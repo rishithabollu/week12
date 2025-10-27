@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: seleniumtestdemoapp
-          image: meghana0309/demoimage   # use your Docker Hub image
+          image: rishitha3640/demoimage   # use your Docker Hub image
           ports:
             - containerPort: 5000
